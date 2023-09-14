@@ -3,3 +3,4 @@ ydata-profiling
 pycaret
 numpy
 pandas
+streamlit-pandas-profiling
